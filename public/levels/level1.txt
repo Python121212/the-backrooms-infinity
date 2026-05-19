@@ -1,0 +1,7 @@
+[INFO]
+name=Habitable Zone
+level=1
+
+[EXITS]
+# 種類, 出口の名前, 配置座標(X, Y, Z), 移動先のレベル名
+door, "Level 2へのハッチ", 0, 0, 15, level2
